@@ -1,13 +1,9 @@
-<template></template>
+<template>
+  <div></div>
+</template>
 
 <script>
-export default {
-  data() {
-    return {
-      quote: 'I want to be single'
-    }
-  }
-}
+export default {}
 </script>
 
-<style></style>
+<style lang="scss" scoped></style>
